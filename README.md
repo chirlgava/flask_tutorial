@@ -10,3 +10,6 @@
 **Flask Tutorial:** https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world <br>
 
 python-dotenv: allows a easyer way to run flask app
+
+## flask-wtf
+Facilitates the process of creating forms, logins
