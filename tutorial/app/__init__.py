@@ -19,4 +19,4 @@ login.login_view = 'login'
 
 from app import routes
 from app import models #sqlalchemy + migrate
-
+from app import errors
