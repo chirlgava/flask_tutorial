@@ -48,3 +48,4 @@ jinja2.exceptions.TemplateNotFound: 404.html
 2021-09-09 16:45:58,672 INFO: Microblog startup [in C:\Users\rlgava\Documents\Mestrado\Python\Hachi_Project\flask_tutorial\tutorial\app\__init__.py:57]
 2021-09-09 16:48:24,313 INFO: Microblog startup [in C:\Users\rlgava\Documents\Mestrado\Python\Hachi_Project\flask_tutorial\tutorial\app\__init__.py:57]
 2021-09-09 16:52:23,280 INFO: Microblog startup [in C:\Users\rlgava\Documents\Mestrado\Python\Hachi_Project\flask_tutorial\tutorial\app\__init__.py:57]
+2021-09-09 18:12:11,075 INFO: Microblog startup [in C:\Users\rlgava\Documents\Mestrado\Python\Hachi_Project\flask_tutorial\tutorial\app\__init__.py:59]
