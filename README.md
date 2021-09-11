@@ -30,3 +30,9 @@ Manages logins
 
 ## email-validator
 it is an email validator that is related with wtforms
+
+## flask-moment
+date and time rendering
+
+## flask-babel
+Flask language library
